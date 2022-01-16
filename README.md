@@ -1,6 +1,6 @@
 # Aprenda GO
 
-Esse repósitorio é resposável por conter todas os conteúdos das aulas de [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg), criado e gerenciado por [Ellen Korbes]().
+Esse repósitorio é resposável por conter todas os conteúdos das aulas de [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg), criado e gerenciado por [Ellen Korbes](http://ellenkorbes.com).
 
 Durante a realização desse curso, estarei documentando os aprendizados em READMEs de cada capítulo respectivamente, ao final, farei uma visão geral declarando os meus pontos sobre a linguagem e si e comparações com outras liguagens.
 
