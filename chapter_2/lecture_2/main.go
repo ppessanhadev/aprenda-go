@@ -4,5 +4,6 @@ import "fmt"
 
 
 func main() {
-	fmt.Println("Hello world")
+	number_of_bytes, error := fmt.Println("Hello world", "Oi galera!", 100)
+	fmt.Println(number_of_bytes, error)
 }
