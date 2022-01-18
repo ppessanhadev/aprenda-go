@@ -8,6 +8,7 @@ Ao total, ele é dividido em 28 capítulos, possuindo conteúdos práticos e exe
 
 - [x] Capítulo 1 - Visão geral da linguagem;
 - [ ] Capíluto 2 - Variáveis, valores e tipos;
+	1. [**Go Playground**]: Nessa aula é demonstrado o editor do Go online, que pode ser [acessado aqui](https://go.dev/play/).;
 - [ ] Capíluto 3 - Exercicíos nivel 1;
 - [ ] Capíluto 4 - Fundamentos da programação;
 - [ ] Capíluto 5 - Exercicícios nivel 2;
