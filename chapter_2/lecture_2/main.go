@@ -4,6 +4,8 @@ import "fmt"
 
 
 func main() {
-	_, error := fmt.Println("Hello world", "Oi galera!", 100)
-	fmt.Println(error)
+	x := 16
+	y := "Strings"
+	z := true
+	fmt.Println(x, y, z)
 }
